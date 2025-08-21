@@ -1,0 +1,4 @@
+//int a , b ;
+int add(a,b){
+    return a+b;
+}
